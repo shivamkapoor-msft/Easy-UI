@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# EasyUI can disrupt the way new user interfaces are created from scratch
+
+[You can fiddle with the app here.](http://10.168.30.50:3000/)
+
+In this demo for FHL 2023, we were able to integrate a react app with Chat GPT3 to create a simple application wherein you can generate basic code for a website using text input. You can download the code in an html file.
+
+We also wanted to enable making incremental changes in the output website but it was out of scope for this FHL work.
+
+You can still navigate through your command history and view older results.
+
+Here is the link to the [PPT](https://microsoftapc-my.sharepoint.com/:p:/g/personal/shrmitta_microsoft_com/Eb8vCiHtgBRDk-rSOsyiPykB1-71g3xfI9Q6_XaZnbLuBw?e=frY3iB).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
