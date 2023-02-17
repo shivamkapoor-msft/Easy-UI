@@ -2,6 +2,8 @@
 
 [You can fiddle with the app here.](http://10.168.30.50:3000/)
 
+[Watch demo](https://clipchamp.com/watch/2udbez668Xj)
+
 In this demo for FHL 2023, we were able to integrate a react app with Chat GPT3 to create a simple application wherein you can generate basic code for a website using text input. You can download the code in an html file.
 
 We also wanted to enable making incremental changes in the output website but it was out of scope for this FHL work.
